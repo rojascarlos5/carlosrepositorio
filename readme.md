@@ -12,3 +12,8 @@
 
 > Empieza donde estas, con lo que tienes
 [Google Fonts](https://fonts.google.com/)
+
+![halo combat evolved](assets/images/halo.jpg "Esto es un ejemplo")
+
+``` <h1>Hola mundo de markdown</h1>```
+> [Pagina de markdown](https://markdown.es/)
