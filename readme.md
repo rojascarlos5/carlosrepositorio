@@ -10,7 +10,7 @@
 ## MODULO __PHP Y MYSQL__
 ## MODULO **PYTHON**
 
-> Empieza donde estas, con lo que tienes
+> Empieza donde estas, usa lo que tienes
 [Google Fonts](https://fonts.google.com/)
 
 ![halo combat evolved](assets/images/halo.jpg "Esto es un ejemplo")
